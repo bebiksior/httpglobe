@@ -29,6 +29,17 @@ It will be created on the first run.
 
 The tool will automatically append the country code to the username in the format `-country-XX` for each request.
 
+## Where to obtain Brightdata proxy credentials
+1. Buy Brightdata proxies zone at https://brightdata.com 
+
+![CleanShot 2025-02-18 at 13 20 36](https://github.com/user-attachments/assets/ed366604-dcbc-427a-ad4c-9da0f3787c37)
+
+3. Go to https://brightdata.com/cp/zones and click on your proxies zone
+4. Copy/paste proxy credentials to the config file
+
+![CleanShot 2025-02-18 at 13 17 21](https://github.com/user-attachments/assets/c6005f63-1bfa-4db5-8e74-b500d1d6e835)
+
+
 ## Usage
 
 Basic scan with default settings:
