@@ -1,6 +1,9 @@
 # HTTPGlobe
 This tool sends HTTP requests to a list of URLs through BrightData proxies in different geographical locations. This helps discover web servers that restrict access based on geographic location. The tool only supports [Brightdata](https://brightdata.com) proxies and their geolocation targeting feature.
 
+![CleanShot 2025-02-18 at 13 03 13](https://github.com/user-attachments/assets/3a2b078d-ce03-4661-8cf1-1b1ca45faf7e)
+
+
 ## Installation
 
 ```bash
